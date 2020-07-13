@@ -27,7 +27,8 @@ def element_multiplication(number, vec):
     output.append(vec[i] * number)
   return output
 
-print(elementwise_multiplication([1,2,3], [1,2,3]))
-print(elementwise_addition([1,2,3], [1,2,3]))
-print(vector_sum([1,2,3]))
-print(vector_average([1,2,3]))
+# Simple tests
+# print(elementwise_multiplication([1,2,3], [1,2,3]))
+# print(elementwise_addition([1,2,3], [1,2,3]))
+# print(vector_sum([1,2,3]))
+# print(vector_average([1,2,3]))

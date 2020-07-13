@@ -10,3 +10,5 @@ Simple neural network with 1 input and 1 output.
 Simple neural network with many inputs and 1 output.
 - `simpleNN_manyIns_1out_np.py`:  
 Same but NumPy implementation.
+- `simpleNN_1in_manyOuts.py`
+Simple neural network with 1 input and many outputs.

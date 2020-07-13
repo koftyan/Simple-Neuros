@@ -8,3 +8,5 @@ This file contains some of the vector operations(elementwise multiplication, ele
 Simple neural network with 1 input and 1 output.
 - `simpleNN_manyIns_1out.py`:  
 Simple neural network with many inputs and 1 output.
+- `simpleNN_manyIns_1out_np.py`:  
+Same but NumPy implementation.

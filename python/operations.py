@@ -21,6 +21,12 @@ def vector_sum(vec):
 def vector_average(vec):
   return vector_sum(vec) / len(vec)
 
+def element_multiplication(number, vec):
+  output = []
+  for i in range(len(vec)):
+    output.append(vec[i] * number)
+  return output
+
 print(elementwise_multiplication([1,2,3], [1,2,3]))
 print(elementwise_addition([1,2,3], [1,2,3]))
 print(vector_sum([1,2,3]))
